@@ -5,7 +5,7 @@
  */
 /*
 Plugin Name: Subtitle 360
-Plugin URI: #
+Plugin URI: http://wordpress.org/extend/plugins/subtitle-360/
 Description: This plugin is used to create subtitle for pages and post. Now ou can use the subtitle on your page. If you have a big tagline for each page here is the solution.
 Author: Hasanul Banna
 Version: 1.0
