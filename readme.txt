@@ -17,6 +17,9 @@ This plugin creates an option to enter sub heading for pages and posts. You can 
 2. Activate the plugin through the 'Plugins' menu in WordPress.
 3. Now under pages and posts you can see option to enter sub title.
 
+<strong>Template Tag</strong>
+<code><?php if (function_exists('the_subtitle')){ the_subtitle(); }?></code>
+
 == Screenshots ==
 
 1. Screenshot of admin page.
