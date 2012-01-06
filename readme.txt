@@ -17,6 +17,10 @@ This plugin creates a option to enter sub heading for pages and posts. You can d
 2. Activate the plugin through the 'Plugins' menu in WordPress.
 3. Now under pages and posts you can see option to enter sub title.
 
+== Screenshots ==
+
+1. Screenshot of admin page.
+
 == Frequently Asked Questions ==
 
 = My Sub title won't upload. What should I do? =
