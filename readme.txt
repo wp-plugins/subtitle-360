@@ -5,12 +5,12 @@ Requires at least: 3.0
 Tested up to: 3.3.1
 Stable tag: 1.0
 
-This plugin creates an option to enter sub heading for pages and posts. You can display the sub title in your theme by using the <code><?php if (function_exists('the_subtitle')){ the_subtitle(); }?></code> template tag.
+This plugin creates an option to enter sub heading for pages and posts. You can display the sub title in your theme by using the <code><?php if (function_exists('the_subtitle')){ the_subtitle(); }?></code>
 
 == Description ==
 
 This plugin creates an option to enter sub heading for pages and posts. You can display the sub title in your theme by using the 
-<code><?php if (function_exists('the_subtitle')){ the_subtitle(); }?></code> template tag.
+<code><?php if (function_exists('the_subtitle')){ the_subtitle(); }?></code>
 
 == Installation ==
 
