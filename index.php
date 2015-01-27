@@ -1,15 +1,15 @@
 <?php
 /**
  * @package Subtitle 360
- * @version 1.0
+ * @version 2.0
  */
 /*
 Plugin Name: Subtitle 360
 Plugin URI: http://wordpress.org/extend/plugins/subtitle-360/
 Description: This plugin is used to create subtitle for pages and post. Now ou can use the subtitle on your page. If you have a big tagline for each page here is the solution.
 Author: Hasanul Banna
-Version: 1.0
-Author URI: http://hasanul.banna360.com/
+Version: 2.0
+Author URI: http://coregenie.com/
 */
 ?>
 <?php    
@@ -26,7 +26,7 @@ function my_post_meta_box( $object, $box ) { ?>
     <p>
     
         <label>Please enter sub title:</label>
-        <input name="page_sub_title" id="sw_title" style="width: 97%;" value="<?php echo wp_specialchars( get_post_meta( $object->ID, 'page_sub_title', true ), 1 ); ?>" />
+        <input name="page_sub_title" id="sw_title" style="width: 97%;" value="<?php echo esc_html( get_post_meta( $object->ID, 'page_sub_title', true ), 1 ); ?>" />
         <input type="hidden" name="my_meta_box_nonce" value="<?php echo wp_create_nonce( plugin_basename( __FILE__ ) ); ?>" />
     </p>
     </div>
