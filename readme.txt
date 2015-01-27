@@ -7,7 +7,6 @@ Stable tag: 1.0
 
 This plugin creates an option to enter sub heading for pages and posts. You can display the sub title in your theme by using the <code><?php if (function_exists('the_subtitle')){ the_subtitle(); }?></code>
 
-Developed by [Coregenie Technologies](http://coregenie.com/ "Wordpress Web Design India")
 
 
 == Description ==
@@ -15,7 +14,7 @@ Developed by [Coregenie Technologies](http://coregenie.com/ "Wordpress Web Desig
 This plugin creates an option to enter sub heading for pages and posts. You can display the sub title in your theme by using the 
 <code><?php if (function_exists('the_subtitle')){ the_subtitle(); }?></code>
 
-Developed by Coregenie Technologies
+Developed by [Coregenie Technologies](http://coregenie.com/ "Wordpress Web Design India")
 
 == Installation ==
 
