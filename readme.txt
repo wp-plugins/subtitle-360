@@ -16,7 +16,7 @@ This plugin creates an option to enter sub heading for pages and posts. You can 
 
 Developed by [Coregenie Technologies](http://coregenie.com/)
 
-[FAQ](http://coregenie.com/)
+
 
 == Installation ==
 
